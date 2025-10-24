@@ -141,11 +141,3 @@ java AlgoritmosOrdenacao
 - **Vetor Decrescente**: Selection Sort faz menos trocas (10), enquanto Comb Sort é mais rápido (9 iterações)
 - **Gnome Sort**: Consistentemente o pior em iterações, especialmente para vetores decrescentes
 
-## Características dos Algoritmos
-
-- **Bubble Sort**: O(n²) com otimização de flag de parada
-- **Selection Sort**: O(n²) sempre
-- **Cocktail Sort**: O(n²) mas mais eficiente que bubble sort comum
-- **Gnome Sort**: O(n²) similar ao insertion sort
-- **Comb Sort**: Melhora do bubble sort com gap decrescente
-- **Bucket Sort**: O(n + k) no melhor caso, implementado sem estruturas auxiliares complexas
